@@ -1,5 +1,0 @@
-item price qty day
-ball 20 2 monday
-pouch 80 3 tuesday
-cards 30 4 wednesday
-lollipop 70 4 thursday
