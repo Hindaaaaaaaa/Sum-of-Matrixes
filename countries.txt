@@ -1,0 +1,4 @@
+Name Population Area Continent
+Pakistan 240000000 881913 Asia
+India 1420000000 3287263 Asia
+USA 340000000 9833517 NorthAmerica
